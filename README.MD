@@ -1,6 +1,9 @@
 
 # AZN Exchange Rates Web Application
 Onemli not: her iki packete npm install yaparak node_modules paketini indirmeniz gerek
+
+
+
 This project is designed to manage AZN exchange rates and allow users to fetch rates by date and currency. The project consists of two parts: frontend and backend.
 
 ## Requirements
