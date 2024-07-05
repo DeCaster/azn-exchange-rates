@@ -1,17 +1,25 @@
-
 # AZN Exchange Rates Web Application
-Onemli not: her iki packete npm install yaparak node_modules paketini indirmeniz gerek
+Important note: You need to run npm install in both packages to download the node_modules package.
+### Login
+[![Login](./images/login.png)](./images/login.png)
 
+### Register
+[![Register](./images/register.png)](./images/register.png)
 
+### HomePage
+[![HomePage](./images/homepage.png)](./images/homepage.png)
+
+## How to Navigate
+
+- Click on the login image to view the login page screenshot.
+- Click on the register image to view the register page screenshot.
+- Click on the homepage image to view the homepage screenshot.
 
 This project is designed to manage AZN exchange rates and allow users to fetch rates by date and currency. The project consists of two parts: frontend and backend.
 
-## Used..
+## Requirements
 - Node.js
 - MongoDB
-- React.js
-- Javascript
-- Express.js
 
 ## Environment Setup
 Create a `.env` file and include the following information:
@@ -41,14 +49,25 @@ If the `.env` file does not work, you need to manually write your MONGO_URI.
 
 # AZN Exchange Rates Web Tətbiqi
 
+Vacib qeyd: node_modules paketini yükləmək üçün hər iki paketdə npm install əmri işlətməlisiniz.
+
 Bu layihə, AZN məzənnələrini idarə etmək və istifadəçilərin tarixə və valyutaya görə məzənnələri əldə etməsinə imkan vermək üçün hazırlanmışdır. Layihə iki hissədən ibarətdir: frontend və backend.
 
-## Kullanilan...
+## Ekran Görüntüleri
+
+### Giriş
+[![Giriş](./images/login.png)](./images/login.png)
+
+### Kayıt Ol
+[![Kayıt Ol](./images/register.png)](./images/register.png)
+
+### Anasayfa
+[![Anasayfa](./images/homepage.png)](./images/homepage.png)
+
+
+## Tələblər
 - Node.js
 - MongoDB
-- React.js
-- Javascript
-- Express.js
 
 ## Ətraf Mühitin Quraşdırılması
 `.env` faylı yaradın və aşağıdakı məlumatları daxil edin:
