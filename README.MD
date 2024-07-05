@@ -1,13 +1,13 @@
 # AZN Exchange Rates Web Application
 Important note: You need to run npm install in both packages to download the node_modules package.
 ### Login
-[![Login](./images/login.png)](./images/login.png)
+[![Login](./images/Login.png)](./images/Login.png)
 
 ### Register
-[![Register](./images/register.png)](./images/register.png)
+[![Register](./images/Register.png)](./images/Register.png)
 
 ### HomePage
-[![HomePage](./images/homepage.png)](./images/homepage.png)
+[![HomePage](./images/HomePage.png)](./images/HomePage.png)
 
 ## How to Navigate
 
