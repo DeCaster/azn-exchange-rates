@@ -6,9 +6,12 @@ Onemli not: her iki packete npm install yaparak node_modules paketini indirmeniz
 
 This project is designed to manage AZN exchange rates and allow users to fetch rates by date and currency. The project consists of two parts: frontend and backend.
 
-## Requirements
+## Used..
 - Node.js
 - MongoDB
+- React.js
+- Javascript
+- Express.js
 
 ## Environment Setup
 Create a `.env` file and include the following information:
@@ -40,9 +43,12 @@ If the `.env` file does not work, you need to manually write your MONGO_URI.
 
 Bu layihə, AZN məzənnələrini idarə etmək və istifadəçilərin tarixə və valyutaya görə məzənnələri əldə etməsinə imkan vermək üçün hazırlanmışdır. Layihə iki hissədən ibarətdir: frontend və backend.
 
-## Tələblər
+## Kullanilan...
 - Node.js
 - MongoDB
+- React.js
+- Javascript
+- Express.js
 
 ## Ətraf Mühitin Quraşdırılması
 `.env` faylı yaradın və aşağıdakı məlumatları daxil edin:
